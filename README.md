@@ -37,9 +37,6 @@ Along with the function, we provide two examples that employ a fetal heart rate 
 MATLAB R2014a or later. 
 Please note that for loading the time series, the MATLAB version of the wfdb library (http://physionet.org/physiotools/matlab/wfdb-app-matlab/) must be installed.
 
-#### Limitations
-Using relatively simple artifact detection requires an explicit trade in spectral analysis quality (accuracy) and speed, when compared to manual artifact detection. The manual artifact detection approach does not include a muscle movement (EMG signal), loose lead analysis, EOG contamination analysis nor an ECG contamination analysis. NREM and REM frequency spectra for each subject are reviewed visually for non-physiological components and poor data in order to reduce the limitations of the implemented artifact detection approach. Despite these checks, we have observed that between 2-5% of subjects may have residual artifact that affects the frequency spectrum in the upper portions of the 15 to 25 Hz frequency range. Bland-Altman plots comparing band summaries from manual and automatic artifact detection approaches suggest that there is a small positive bias for the bands computed with the manual artifact detection approach (band computed with the automatic artifact detection being larger). Each investigator should assess whether the methods used in this application are appropriate for the research hypothesis under investigation.
-
 #### Acknowledgments
 Acknowledgements: This package was developed at the Wyss Institute for Biologically Inspired Engineering at Harvard University and Beth Israel Deaconess Medical Center/Harvard Medical School by A. Burykin, S. Mariani, T. Silva, A.L. Goldberger, M.D. Costa and T. Henriques
 
