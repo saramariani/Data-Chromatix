@@ -13,7 +13,7 @@ This colorization algorithm is intended to facilitate analysis of physiologic an
 
 For illustrations and further information, please refer to the Data Chromatix PhysioNet page: https://physionet.org/physiotools/dchromatix/
 
-### Sample Input
+#### Sample Input
 Mandatory inputs to the function are:
 -	The time series to be colorized
 -	The units to show on the x and y axis
