@@ -43,9 +43,7 @@ Using relatively simple artifact detection requires an explicit trade in spectra
 #### Acknowledgments
 Acknowledgements: This package was developed at the Wyss Institute at Harvard by A. Burykin, S. Mariani, T. Silva and T. Henriques.
 
-Users of our software should cite: (1) Burykin A*, Mariani S*, Henriques T, Silva T, Schnettler W, Costa MD**, Goldberger AL**. Remembrance of time series past: simple chromatic method for visualizing trends in biomedical signals. Physiol Meas 2015;36(7):N95.
-* Joint first authors
-**Joint senior authors
+Users of our software should cite: Burykin A, Mariani S, Henriques T, Silva T, Schnettler W, Costa MD, Goldberger AL. Remembrance of time series past: simple chromatic method for visualizing trends in biomedical signals. Physiol Meas 2015;36(7):N95.
 
 #### More Questions
 Please report bugs and questions at sara.mariani7@gmail.com.
