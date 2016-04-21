@@ -11,7 +11,7 @@ At each step, a normalized histogram of the data points in the memory window is 
 
 This colorization algorithm is intended to facilitate analysis of physiologic and non-physiologic time series. Future studies will help assess its utility.
 
-For illustrations and further information, please refer to the Data Chromatix PhysioNet page: https://physionet.org/physiotools/dchromatix/
+For illustrations and further information, please refer to the [Data Chromatix PhysioNet page](https://physionet.org/physiotools/dchromatix/).
 
 #### Sample Input
 Mandatory inputs to the function are:
@@ -35,12 +35,12 @@ Along with the function, we provide two examples that employ a fetal heart rate 
 
 #### Requirements
 MATLAB R2014a or later. 
-Please note that for loading the time series, the MATLAB version of the wfdb library (http://physionet.org/physiotools/matlab/wfdb-app-matlab/) must be installed.
+Please note that for loading the time series, the [MATLAB version of the wfdb library](http://physionet.org/physiotools/matlab/wfdb-app-matlab/) must be installed.
 
 #### Acknowledgments
 Acknowledgements: This package was developed at the Wyss Institute for Biologically Inspired Engineering at Harvard University and Beth Israel Deaconess Medical Center/Harvard Medical School by A. Burykin, S. Mariani, T. Silva, A.L. Goldberger, M.D. Costa and T. Henriques
 
-Users of our software should cite: Burykin A, Mariani S, Henriques T, Silva T, Schnettler W, Costa MD, Goldberger AL. Remembrance of time series past: simple chromatic method for visualizing trends in biomedical signals. Physiol Meas 2015;36(7):N95.
+Users of our software should cite: [Burykin A, Mariani S, Henriques T, Silva T, Schnettler W, Costa MD, Goldberger AL. Remembrance of time series past: simple chromatic method for visualizing trends in biomedical signals. Physiol Meas 2015;36(7):N95.](http://iopscience.iop.org/article/10.1088/0967-3334/36/7/N95)
 
 #### More Questions
 Please report bugs and questions at sara.mariani7@gmail.com.
